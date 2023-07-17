@@ -4,7 +4,7 @@
 
 ![GitHub](https://img.shields.io/github/license/openmooncommunity/NextGen-Netlify) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/openmooncommunity/NextGen-Netlify/main) ![GitHub repo size](https://img.shields.io/github/repo-size/openmooncommunity/NextGen-Netlify) ![GitHub Repo stars](https://img.shields.io/github/stars/openmooncommunity/NextGen-Netlify)
 
-NextGen Netlify is a project created with Next.js and hosted on Netlify. This project was developed with the goal of providing a performant and responsive website using the latest web technologies.
+NextGen Netlify is a project created with [Next.js](https://nextjs.org/) and hosted on [Netlify](https://www.netlify.com/). This project was developed with the goal of providing a performant and responsive website using the latest web technologies.
 
 ## Features
 
